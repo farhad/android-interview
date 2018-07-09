@@ -1,4 +1,4 @@
-#### The comprehensive Android Engineer interview questions
+#### The comprehensive Android engineer interview questions
 
 * Android Core Concepts
 	* Context
@@ -35,7 +35,22 @@
 	* AAPT
 	* APK format
 * Android CustomViews
-* Designing Cache layer and 17 different strategies
+* Designing Cache layer and 17 different LRU mechanisms
+* Merge in Layouts
+* DayNight Themes in Android
+* Themes and styles in Android
+* Supporting multiple languages
+* Permission and protection levels
+* Memory Trimming and onTrimMemory()
+* StrictMode
+* Layout optimization
+* ViewStub
+* MediaPlayBack and recording
+* Foreground services
+* Doze mode
+* Battery usage optimization
+* Debugging tools
+* Facebook Android development tools
 * Android RecyclerView Basics
 * Android RecyclerView Advanced
 * Android Push Notification
