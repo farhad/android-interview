@@ -49,19 +49,6 @@
 	* Lifecycle
 	* LaunchMode and BackStack
 	* Configuration Changes
-* Fragments
-	* FragmentManager
-	* Fragment Lifecycle
-	* DialogFragment
-	* BottomSheetDialogFragment
-	* Retained Fragment
-	* Fragment without UI
-	* Fragment BackStack
-	* Master/Detail Fragment
-	* Configuration Changes
-	* Exceptions when using Fragments
-	* Lifecycle in ViewPager
-	* 
 * Networking
 * Image Processing
 * Dialogs
