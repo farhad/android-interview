@@ -97,11 +97,13 @@
 	* Threading
 	* pass by value vs. pass by reference
 	* Strings
+	* Garbage Collection Process and Generations
 	* Lambda expressions
 * Java 8 
 * Kotlin
 * Reactive Programming and RxJava
 * Gradle
+* Code Review Best Practices
 * Optimizing Gradle Build Time
 * Flutter & Dart
 * Android Test-driven Development
@@ -116,17 +118,17 @@
 * Design Patterns
 * Functional Programming
 * JPA, jdbc & Hibernate
-* Spring fundamentals
-* Spring-MVC
-* Postgresql
-* Mongodb
 * Java Network Programming
 * Socket Programming
-* ConstraintLayout
+* ConstraintLayout and Its Algorithm
 * Git Basic
 * Git workflow
 * Algorithms
 * Data Structures
+* CPU pipeline
+* Computer Architecture ( RISC, CISC)
+* Operating Systems Fundamentals
+* AI fundamentals and Algorithms
 * Maven
 * Regular Expressions
 * BlockChain
