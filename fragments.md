@@ -18,14 +18,14 @@
 16. What is the purpose of a Fragment without UI ?
 17. How to implement Master/Detail Fragment ?
 18. How to handle configuration changes in Fragment ?
-20. Name famous exceptions that occur when working with Fragments.
-21. What is the ViewPager ?
-22. How the viewpager affects the fragment lifecycle ?
-23. Design the process of a interaction between activity and fragment.
-24. Design the process of interaction between multiple fragments in an activity
-25. How can we add Fragments to an activity ?
-26. Is defining fragments in layout considered a good practice ?
-27. What is the difference between FragmentPagerAdapter and FragmentStatePagerAdapter ?
-28. What is a FragmentActivity ?
-29. How to design a multi pane ui with fragments ?
-30. Create a mail client application like Inbox or Gmail, using fragments and master/detail layouts.
+19. Name famous exceptions that occur when working with Fragments.
+20. What is the ViewPager ?
+21. How the viewpager affects the fragment lifecycle ?
+22. Design the process of a interaction between activity and fragment.
+23. Design the process of interaction between multiple fragments in an activity
+24. How can we add Fragments to an activity ?
+25. Is defining fragments in layout considered a good practice ?
+26. What is the difference between FragmentPagerAdapter and FragmentStatePagerAdapter ?
+27. What is a FragmentActivity ?
+28. How to design a multi pane ui with fragments ?
+29. Create a mail client application like Inbox or Gmail, using fragments and master/detail layouts.
