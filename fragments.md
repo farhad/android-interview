@@ -27,3 +27,5 @@
 26. Is defining fragments in layout considered a good practice ?
 27. What is the difference between FragmentPagerAdapter and FragmentStatePagerAdapter ?
 28. What is a FragmentActivity ?
+29. How to design a multi pane ui with fragments ?
+30. Create a mail client application like Inbox or Gmail, using fragments and master/detail layouts.
