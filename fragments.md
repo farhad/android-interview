@@ -32,3 +32,4 @@
 30. Create a mail client application like Inbox or Gmail, using fragments and master/detail layouts.
 31. What is the difference between `commit()` and `commitAllowingStateLoss()` in FragmentTransaction ?
 32. How can we add animations to fragments creation and destroy ?
+33. Discuss the different approaches and best practices to instantiate fragments with arguments.
