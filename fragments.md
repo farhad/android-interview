@@ -6,7 +6,7 @@
 4. What is FragmentTransaction ?
 5. Describe the Fragment BackStack.
 6. Describe a Fragment lifecycle.
-7. Describe a Fragment lifecycle according to its associated activity lifecycle
+7. Describe a Fragment lifecycle according to activity lifecycle.
 8. What is DialogFragment ?
 9. What is the difference between DialogFrament and Dialog ?
 10. What is the difference between DialogFragment and AlertDialog ?
@@ -21,11 +21,13 @@
 19. Name famous exceptions that occur when working with Fragments.
 20. What is the ViewPager ?
 21. How the viewpager affects the fragment lifecycle ?
-22. Design the process of a interaction between activity and fragment.
-23. Design the process of interaction between multiple fragments in an activity
+22. Design the process of interaction between an activity and a fragment.
+23. Design the process of interaction between multiple fragments with each other in an activity.
 24. How can we add Fragments to an activity ?
 25. Is defining fragments in layout considered a good practice ?
 26. What is the difference between FragmentPagerAdapter and FragmentStatePagerAdapter ?
 27. What is a FragmentActivity ?
 28. How to design a multi pane ui with fragments ?
 29. Create a mail client application like Inbox or Gmail, using fragments and master/detail layouts.
+30. What is the difference between `commit()` and `commitAllowingStateLoss()` in FragmentTransaction ?
+31. How can we add animations to fragments creation and destroy ?
