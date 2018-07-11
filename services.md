@@ -38,5 +38,5 @@
 36. Design a music player that shows a now-playing notification, with pause, stop and resume buttons, using  a service.
 37. How to make a service run in another process rather than the activity process ?
 38. How to start or bind to a service that is running in another process ?
-39. Design an application that a bound service, which other applications can bind to it.
-40. How to protect an exported bound service with permissions ?
+39. Design an application with an exported bound service, which other applications can bind to.
+40. How to protect an exported bound service with custom permission ?
