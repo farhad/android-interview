@@ -43,3 +43,6 @@
 41. What does `configure on-demand` mean in gradle ?
 42. How to troubleshoot a failing Android project build ?
 43. What is a classpath dependency in gradle ?
+44. What are transitive dependencies ?
+45. What does `provided` mean ?
+46. What does `compileOnly` mean ?
