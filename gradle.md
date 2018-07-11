@@ -23,3 +23,23 @@
 21. What does the assemble tasks and its variant do in gradle ?
 22. What is the `--dry-run` switch in gradle ?
 23. What does the Android gradle plugin do ?
+24. Describe how gradle resolves and stores dependecies ?
+25. Name famous java public repositories.
+26. What is the difference between `mavenCentral()` and `mavenLocal()` ?
+27. What is the difference between `jcenter()` and `mavenCentral()` ?
+28. Which public repository is a better choice for publishing an Android library ?
+29. What is `google()` repository ?
+30. How to add the build time and buildvariant title to a java library artifact in gradle ?
+31. What does the `implementation` mean in gradle ?
+32. How to make gradle run all the tests before building the project ?
+33. How to make gradle get the latest version of a dependency all the time ? Is this considered a good practice ?
+34. How to make gradle get a specific version of a dependency, if declared as a dependency in other libraries ?
+35. What does `annotationProcessor` mean in gradle ?
+36. What is the difference between `implementation` and `testImplementation` in gradle ?
+37. How would you profile a gradle build process ?
+38. How does having multiple modules affect the project build time ? Is this considered a good practice ?
+39. How would you parameterize build configurations across all modules in gradle ?
+40. What does `zipAlignEnabled` do in android build configurations ?
+41. What does `configure on-demand` mean in gradle ?
+42. How to troubleshoot a failing Android project build ?
+43. What is a classpath dependency in gradle ?
