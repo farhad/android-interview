@@ -40,5 +40,5 @@ ___
 26. Convert an existing complex layout to ConstraintLayout.
 27. Explain about the double-measurement issue in LineatLayout and RelativeLayout.
 28. What is the purpose of `ConstraintChangeListener` ?
-29. What is the purpose of `ConstraintSet`
+29. What is the purpose of `ConstraintSet` ?
 
