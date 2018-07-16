@@ -1,6 +1,16 @@
 ### ConstraintLayout Interview Questions
 
-1. What is constrainlayout ?
+##### study recommendations
+
+* [The official documentation](https://developer.android.com/reference/android/support/constraint/ConstraintLayout)
+* [Pluralsight - Android Fundamentals - ConstraintLayout](https://app.pluralsight.com/library/courses/android-fundamentals-constraint-layout/table-of-contents)
+* [Styling Android - ConstraintLayout tutorial series](https://blog.stylingandroid.com/?s=ConstraintLayout)
+* [ConstraintLayout.com](https://constraintlayout.com/)
+ 
+___
+
+#### The Questionnaire
+1. What is constrainlayout and When was it introduced to the community ?
 2. How to add constraint layout to an existing project ?
 3. What is constraintlayout resolver and what does it do ?
 4. What are the advantages of using constraintlayout in design ?
@@ -28,3 +38,7 @@
 	* exact dimensions
 	* match_constraint
 26. Convert an existing complex layout to ConstraintLayout.
+27. Explain about the double-measurement issue in LineatLayout and RelativeLayout.
+28. What is the purpose of `ConstraintChangeListener` ?
+29. What is the purpose of `ConstraintSet`
+
