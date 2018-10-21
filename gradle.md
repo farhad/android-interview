@@ -46,3 +46,4 @@
 44. What are transitive dependencies ?
 45. What does `provided` mean ?
 46. What does `compileOnly` mean ?
+47. Describle the difference between `implementation` and `api`, when declaring dependencies.
